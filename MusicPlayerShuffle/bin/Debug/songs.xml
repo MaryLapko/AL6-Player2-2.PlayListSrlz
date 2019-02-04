@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<ArrayOfSong xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Song>
+    <Duration>300</Duration>
+    <Name>Her Ghost</Name>
+    <Artist>
+      <Name>SomeArtist</Name>
+      <ArtistGenre>Classic</ArtistGenre>
+    </Artist>
+    <Like>true</Like>
+  </Song>
+  <Song>
+    <Duration>300</Duration>
+    <Name>Go!</Name>
+    <Like>false</Like>
+  </Song>
+  <Song>
+    <Duration>123</Duration>
+    <Name>Signals</Name>
+    <Like xsi:nil="true" />
+  </Song>
+  <Song>
+    <Duration>303</Duration>
+    <Name>La</Name>
+    <Like xsi:nil="true" />
+  </Song>
+  <Song>
+    <Duration>300</Duration>
+    <Name>Lala</Name>
+    <Like>true</Like>
+  </Song>
+  <Song>
+    <Duration>300</Duration>
+    <Name>NewSong</Name>
+    <Like xsi:nil="true" />
+  </Song>
+  <Song>
+    <Duration>300</Duration>
+    <Name>Her Ghost</Name>
+    <Like xsi:nil="true" />
+  </Song>
+  <Song>
+    <Duration>300</Duration>
+    <Name>Go2!</Name>
+    <Like xsi:nil="true" />
+  </Song>
+  <Song>
+    <Duration>1230</Duration>
+    <Name>Signals2</Name>
+    <Like xsi:nil="true" />
+  </Song>
+  <Song>
+    <Duration>303</Duration>
+    <Name>La2</Name>
+    <Like>false</Like>
+  </Song>
+  <Song>
+    <Duration>300</Duration>
+    <Name>Lala2</Name>
+    <Like xsi:nil="true" />
+  </Song>
+  <Song>
+    <Duration>300</Duration>
+    <Name>NewSong2</Name>
+    <Like xsi:nil="true" />
+  </Song>
+  <Song>
+    <Duration>0</Duration>
+    <Name>0935.wav</Name>
+    <Like xsi:nil="true" />
+    <Path>D:\Desktop\songs\0935.wav</Path>
+    <Extension>.wav</Extension>
+  </Song>
+</ArrayOfSong>

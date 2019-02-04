@@ -1,0 +1,9 @@
+D:\Desktop\ПВТ\L9HWPlayer23. Substring\BL8Player44.FilterByGenre\MusicPlayerShuffle\bin\Release\MusicPlayerShuffle.exe.config
+D:\Desktop\ПВТ\L9HWPlayer23. Substring\BL8Player44.FilterByGenre\MusicPlayerShuffle\bin\Release\MusicPlayerShuffle.exe
+D:\Desktop\ПВТ\L9HWPlayer23. Substring\BL8Player44.FilterByGenre\MusicPlayerShuffle\bin\Release\MusicPlayerShuffle.pdb
+D:\Desktop\ПВТ\L9HWPlayer23. Substring\BL8Player44.FilterByGenre\MusicPlayerShuffle\bin\Release\System.ValueTuple.dll
+D:\Desktop\ПВТ\L9HWPlayer23. Substring\BL8Player44.FilterByGenre\MusicPlayerShuffle\bin\Release\System.ValueTuple.xml
+D:\Desktop\ПВТ\L9HWPlayer23. Substring\BL8Player44.FilterByGenre\MusicPlayerShuffle\obj\Release\MusicPlayerMLapko.csproj.CoreCompileInputs.cache
+D:\Desktop\ПВТ\L9HWPlayer23. Substring\BL8Player44.FilterByGenre\MusicPlayerShuffle\obj\Release\MusicPlayerMLapko.csproj.CopyComplete
+D:\Desktop\ПВТ\L9HWPlayer23. Substring\BL8Player44.FilterByGenre\MusicPlayerShuffle\obj\Release\MusicPlayerShuffle.exe
+D:\Desktop\ПВТ\L9HWPlayer23. Substring\BL8Player44.FilterByGenre\MusicPlayerShuffle\obj\Release\MusicPlayerShuffle.pdb
